@@ -34,24 +34,29 @@
 Все необходимые данные находятся в схеме, которая показана ниже:
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_1.png?raw=true" alt="схема" width="400"/>
 
-**VACANCIES**
-Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:  
+**VACANCIES**  
+Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:   
+
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_vacancies.png" alt="vacancies" width="400"/>
 
-**AREAS**
+**AREAS**  
 Таблица-справочник, которая хранит код города и его название.
+
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_areas.png" alt="areas" width="400"/>
 
-**EMPLOYERS**
+**EMPLOYERS**  
 Таблица-справочник со списком работодателей.
+
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_empl.png" alt="empl" width="400"/>
 
-**INDUSTRIES**
+**INDUSTRIES**  
 Таблица-справочник вариантов сфер деятельности работодателей.
+
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_industr.png" alt="industries" width="400"/>
 
-**EMPLOYERS_INDUSTRIES**
+**EMPLOYERS_INDUSTRIES**  
 Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
+
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_empl_ind.png" alt="empl_ind" width="400"/>
 
 
