@@ -32,6 +32,7 @@
 ### Описание данных 
 [⬆️ к оглавлению](#оглавление)  
 Все необходимые данные находятся в схеме, которая показана ниже:
+
 <img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/images/SQL_pj2_2_1.png?raw=true" alt="схема" width="400"/>
 
 **VACANCIES**  
