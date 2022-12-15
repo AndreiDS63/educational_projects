@@ -1,5 +1,7 @@
 # <center> Project-1. Анализ резюме из HeadHunter  
 
+Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_1_resume_analysis/solution.ipynb)**
+
 Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science
 
 **Краткое описание:**  
@@ -15,3 +17,5 @@
 3. разведывательный анализ
 4. очистка данных
 
+**Исходные данные:**
+- [датасет с резюме](https://drive.google.com/u/0/uc?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=download)
