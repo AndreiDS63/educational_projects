@@ -36,10 +36,10 @@
 ### Используемые зависимости
 [⬆️ к оглавлению](#оглавление)  
 * Python (3.9):
-    <!-- * [numpy (1.20.3)](https://numpy.org)
-    * [pandas (1.3.4)](https://pandas.pydata.org)
+    * [numpy (1.23.1)](https://numpy.org)
+    * [pandas (1.5.1)](https://pandas.pydata.org)
     * [matplotlib (3.4.3)](https://matplotlib.org)
-    * [seaborn (0.11.2)](https://seaborn.pydata.org) -->
+    * [seaborn (0.11.2)](https://seaborn.pydata.org)
 
 
 ### Установка проекта
@@ -63,4 +63,6 @@ git clone
 ### Выводы
 [⬆️ к оглавлению](#оглавление)  
 
----.
+Разработана расчетная модель определяющая рейтинг отеля с точностью:
+- `MAE: 0.9160509307135468`;
+- `MAPE: 0.12144106584542208`.
