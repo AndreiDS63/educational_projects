@@ -3,7 +3,8 @@
 Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_3_booking_ratings_predict/baseline.ipynb)**
 (Код проекта появится позже)
 
-Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science
+Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science  
+⬅️ [К проектам](https://github.com/AndreiDS63/educational_projects)
 
 ## Оглавление
 - [ Project-3. Предсказание рейтинга отелей по данным сайта Booking]()
