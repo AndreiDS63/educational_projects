@@ -3,7 +3,8 @@
 Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_2_vacancies_analysis_sql/solution.ipynb)**
 (Код проекта появится позже)
 
-Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science
+Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science  
+⬅️ [К проектам](https://github.com/AndreiDS63/educational_projects)  
 
 ## Оглавление
 - [ Project-2. Анализ вакансий из HeadHunter. SQL](#-project-2-анализ-вакансий-из-headhunter-sql)
