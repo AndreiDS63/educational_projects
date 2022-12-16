@@ -1,6 +1,6 @@
 # <center> Project-3. Предсказание рейтинга отелей по данным сайта Booking  
 
-Код **[здесь]()**
+Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_3_booking_ratings_predict/baseline.ipynb)**
 (Код проекта появится позже)
 
 Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science
@@ -29,7 +29,7 @@
 
 Первоначальная версия датасета содержит 17 полей со следующей информацией:
 
-<img src="/project_3_booking_ratings_predict/images/hotels.png" alt="data" width="800"/>
+<img src="[/project_3_booking_ratings_predict/images/hotels.png](https://github.com/AndreiDS63/educational_projects/blob/main/project_3_booking_ratings_predict/images/hotels.png)" alt="data" width="800"/>
 
 
 ### Используемые зависимости
