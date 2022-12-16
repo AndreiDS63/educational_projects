@@ -30,7 +30,7 @@
 
 Первоначальная версия датасета содержит 17 полей со следующей информацией:
 
-<img src="[/project_3_booking_ratings_predict/images/hotels.png](https://github.com/AndreiDS63/educational_projects/blob/main/project_3_booking_ratings_predict/images/hotels.png)" alt="data" width="800"/>
+<img src="https://github.com/AndreiDS63/educational_projects/blob/main/project_3_booking_ratings_predict/images/hotels.png" alt="data" width="800"/>
 
 
 ### Используемые зависимости
@@ -46,13 +46,13 @@
 [⬆️ к оглавлению](#оглавление)  
 
 ```
-git clone 
+git clone https://github.com/AndreiDS63/educational_projects.git
 ```
 
 
 ### Использование
 [⬆️ к оглавлению](#оглавление)  
-Вся информация о работе представлена в jupyter-ноутбуке solution.ipynb.
+Вся информация о работе представлена в jupyter-ноутбуке baseline.ipynb.
 
 
 ### Авторы
