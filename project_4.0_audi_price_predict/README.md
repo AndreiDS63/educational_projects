@@ -1,7 +1,7 @@
 # <center> Project-4.0. Предсказание цены автомобилей Ауди.
 **Модель линейной регрессии**  
 
-Код **[здесь]()**
+Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_4.0_audi_price_predict/audi_price_predict.ipynb)**
 
 
 Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science  
@@ -42,7 +42,7 @@
 
 ### Используемые зависимости
 [⬆️ к оглавлению](#оглавление)  
-* [requirements.txt]()
+* [requirements.txt](https://github.com/AndreiDS63/educational_projects/blob/main/project_4.0_audi_price_predict/requirements.txt)
 
 
 ### Установка проекта
