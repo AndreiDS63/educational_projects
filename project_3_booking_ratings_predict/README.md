@@ -1,7 +1,6 @@
 # <center> Project-3. Предсказание рейтинга отелей по данным сайта Booking  
 
 Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_3_booking_ratings_predict/baseline.ipynb)**
-(Код проекта появится позже)
 
 Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science  
 ⬅️ [К проектам](https://github.com/AndreiDS63/educational_projects)
@@ -26,7 +25,7 @@
 
 ### Описание данных 
 [⬆️ к оглавлению](#оглавление)  
-В этом модуле вы работаем с датасетом, в котором содержатся сведения о 515 000 отзывов на отели Европы. Скачан [отсюда](https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view?usp=sharing).
+В этом проекте работаем с датасетом, в котором содержатся сведения о 515 000 отзывов на отели Европы. Скачан [отсюда](https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view?usp=sharing).
 
 Первоначальная версия датасета содержит 17 полей со следующей информацией:
 
