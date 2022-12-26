@@ -1,7 +1,7 @@
 # <center> Project-4.1. Предсказание мед. расходов граждан США.
 **Модель линейной регрессии**  
 
-Код **[здесь]()**
+Код **[здесь](https://github.com/AndreiDS63/educational_projects/blob/main/project_4.1_medical_cost_predict/medical_cost_predict.ipynb)**
 
 
 Проект выполнен в рамках прохождения курса SkillFactory: DSPR-2.0 Профессия Data Science  
@@ -40,7 +40,7 @@
 
 ### Используемые зависимости
 [⬆️ к оглавлению](#оглавление)  
-* [requirements.txt]()
+* [requirements.txt](https://github.com/AndreiDS63/educational_projects/blob/main/project_4.1_medical_cost_predict/requirements.txt)
 
 
 ### Установка проекта
