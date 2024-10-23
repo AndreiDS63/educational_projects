@@ -10,3 +10,5 @@ Projects that I completed as part of the training
 4. [Project-4.0. Предсказание цены автомобилей Ауди](https://github.com/AndreiDS63/educational_projects/tree/main/project_4.0_audi_price_predict)
 
 5. [Project-4.1. Предсказание мед. расходов граждан США.](https://github.com/AndreiDS63/educational_projects/tree/main/project_4.1_medical_cost_predict)
+
+6. [Projects LinearRegression]()
