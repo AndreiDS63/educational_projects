@@ -11,4 +11,4 @@ Projects that I completed as part of the training
 
 5. [Project-4.1. Предсказание мед. расходов граждан США.](https://github.com/AndreiDS63/educational_projects/tree/main/project_4.1_medical_cost_predict)
 
-6. [Projects LinearRegression]()
+6. [Project-5. Выявление клиентов, более склонных к открытию депозита в банке](https://github.com/AndreiDS63/educational_projects/tree/main/project_5_banks_deposits)
